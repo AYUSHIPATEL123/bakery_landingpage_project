@@ -40,7 +40,7 @@ function validate() {
 
     if (subject.length < 10) { 
 
-        errors.push("Please Enter a Correct Subject");} 
+        errors.push("Please Enter a Correct State");} 
 
     if (isNaN(phone) || phone.length != 10) { 
 
